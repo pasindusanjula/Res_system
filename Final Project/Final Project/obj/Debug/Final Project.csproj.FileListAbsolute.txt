@@ -1,0 +1,16 @@
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\bin\Debug\Guna.UI.dll
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.ItemsForm.resources
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.UserOrderForm.resources
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.UsersForm.resources
+C:\Users\Pasindu Sanjula\source\repos\Final Project\Final Project\obj\Debug\Final_Project.OrderViewForm.resources
